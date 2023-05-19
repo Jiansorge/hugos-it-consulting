@@ -9,7 +9,7 @@ const CONFIG = {
 
   title: 'Professional IT Consulting - Over a Decade of Experience',
   description:
-    '🚀 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs.',
+    'Professional technology management services for a wide range of corporate enterprises, as well as small businesses too',
   defaultImage: defaultImage,
 
   defaultTheme: 'system', // Values: "system" | "light" | "dark" | "light:only" | "dark:only"
