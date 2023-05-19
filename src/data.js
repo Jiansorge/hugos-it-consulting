@@ -48,22 +48,22 @@ export const headerData = {
     //     },
     //   ],
     // },
-    {
-      text: 'Home',
-      href: '#',
-    },
-    {
-      text: 'Services',
-      href: '#services',
-    },
-    {
-      text: 'Overview',
-      href: '#overview',
-    },
-    {
-      text: 'FAQ',
-      href: '#faq',
-    },
+    // {
+    //   text: 'Home',
+    //   href: '#',
+    // },
+    // {
+    //   text: 'Services',
+    //   href: '#services',
+    // },
+    // {
+    //   text: 'Overview',
+    //   href: '#overview',
+    // },
+    // {
+    //   text: 'FAQ',
+    //   href: '#faq',
+    // },
     // {
     //   text: 'Blog',
     //   href: getBlogPermalink(),
