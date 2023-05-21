@@ -4,7 +4,7 @@
 - [ ] Header/Footer Icon
 - [x] READme
 - [ ] scores
-- [ ] Action button to 'Ask about a Free Consultation"
+- [x] Action button to 'Ask about a Free Consultation"
 - [ ] Config File
 - [ ]  
 - [ ] 
