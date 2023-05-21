@@ -1,6 +1,6 @@
 # TODOS
 
-- [ ] Favicon
+- [x] Favicon
 - [ ] Header/Footer Icon
 - [x] READme
 - [ ] scores
