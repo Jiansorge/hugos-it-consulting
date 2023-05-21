@@ -1,13 +1,12 @@
 # TODOS
 
 - [x] Favicon
-- [ ] Header/Footer Icon
+- [x] Header/Footer Icon
 - [x] READme
 - [ ] scores
 - [x] Action button to 'Ask about a Free Consultation"
-- [ ] Config File
-- [ ]  
-- [ ] 
+- [x] Config File
+
 
 # Hugos IT Consulting
 
