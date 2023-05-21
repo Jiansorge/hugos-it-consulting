@@ -1,13 +1,3 @@
-# TODOS
-
-- [x] Favicon
-- [x] Header/Footer Icon
-- [x] READme
-- [ ] scores
-- [x] Action button to 'Ask about a Free Consultation"
-- [x] Config File
-
-
 # Hugos IT Consulting
 
 Hugo's IT Consulting provides professional technology management services for a wide range of corporate enterprises, as well as small businesses too.
