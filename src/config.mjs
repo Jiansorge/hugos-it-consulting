@@ -7,9 +7,9 @@ const CONFIG = {
   basePathname: '/',
   trailingSlash: false,
 
-  title: 'Professional IT Consulting - Over a Decade of Experience',
+  title: 'Professional IT Consulting with Hugo - Over a Decade of Experience',
   description:
-    'Professional technology management services for a wide range of corporate enterprises, as well as small businesses too',
+    'Professional technology management services for server infrastructure configuration and operation, project management, Microsoft Windows Servers, AV, quarterly reporting, procurement, technical user documentation, and implementing organizational IT management processes',
   defaultImage: defaultImage,
 
   defaultTheme: 'system', // Values: "system" | "light" | "dark" | "light:only" | "dark:only"
